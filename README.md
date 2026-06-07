@@ -57,3 +57,6 @@ curl -X POST https://timezone-scheduler.vercel.app/next-business-time \
 
 ## Pricing
 $29/month for 1000 API calls - ideal for SaaS scheduling tools, appointment apps, and shift schedulers.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/timezone-scheduler/main/postman_collection.json)
